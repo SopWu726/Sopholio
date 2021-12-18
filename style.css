@@ -1,0 +1,75 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background: rgb(255,190,190);
+background: linear-gradient(90deg, rgba(255,190,190,1) 0%, rgba(255,194,161,1) 25%, rgba(255,229,193,1) 50%, rgba(218,255,193,1) 75%);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #604b6b;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    letter-spacing: 1.2px;
+}
+
+hr {
+    width: 30%;
+    height: 9px;
+    background: #695380;
+}
+
+#horse {
+    height: 200px;
+    border-radius: 150px;
+}
+
+h2 {
+    color: #604b6b;
+    font-size: 25px;
+    font-family: 'Patrick Hand', cursive;
+    letter-spacing: 1.2px;
+}
+
+li {
+    float: right;
+    color: lightcoral;
+    padding: 9px;
+    background-color: blanchedalmond;
+    border-width: 1px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+    letter-spacing: 1.2px;
+}
+
+ul {
+    list-style: none;
+        position: fixed;
+}
+
+li:hover {
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+#about {
+   background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+#creations{
+    background-color: #FFDEE9;
+background-image: linear-gradient(45deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+#girlwsharksteeth{
+    border-radius: 10px;
+    width: 400px
+}
+#inspiration{
+    background-color: #FAACA8;
+background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+}
+/*ok! i think its time 4 me 2 take a break, so bai!!
